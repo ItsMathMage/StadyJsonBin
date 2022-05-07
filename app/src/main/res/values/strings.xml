@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StadyJsonBin</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="weight">Weight</string>
+    <string name="amount">Amount</string>
+</resources>
